@@ -6,9 +6,8 @@ A modern and responsive developer portfolio built with **React** and **Vite**, f
 
 ## 📸 Portfolio Preview
 
-> Save a screenshot of your portfolio as **preview.png** inside the **assets** folder.
-
-![Portfolio Preview](assets/preview.png)
+> [Portfolio Preview]
+(assets/preview.png)
 
 ---
 
