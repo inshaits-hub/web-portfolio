@@ -1,25 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Cpu, Code2, Wrench, Palette, ArrowUpRight, Menu, X, ArrowUp } from "lucide-react";
 
-/* =====================================================================
-   DESIGN PLAN v5 — beige page + coffee accents (cursor effect removed)
-
-   Palette: the page itself is now a warm beige (like unbleached paper
-   or a linen tablecloth), with a slightly deeper beige for the chrome
-   (sidebar, mobile header, footer) so structure reads without a hard
-   line. Content that needs to pop — education, experience, projects,
-   skills — sits on a dark espresso card, like a coffee stamp pressed
-   into the paper. Three accents (caramel gold, roasted rust, muted
-   sage) each carry three tones: a dark tone for text on the beige
-   page, a mid tone for solid fills/icons, and a light tone for text on
-   the dark cards — so contrast holds in both directions.
-
-   Motion: unchanged from the previous pass — anchor navigation still
-   routes through a two-phase slide (curtain covers, page jumps while
-   hidden, curtain lifts off) rather than a scroll jump. The custom
-   pointer-follower cursor has been removed; hover states now rely on
-   ordinary CSS :hover / focus affordances only.
-===================================================================== */
 
 const THEME = {
   bg: "#F1E4CC",
