@@ -1,7 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Cpu, Code2, Wrench, Palette, ArrowUpRight, Menu, X, ArrowUp } from "lucide-react";
 
-
 const THEME = {
   bg: "#F1E4CC",
   bgPanel: "#E8D7B4",

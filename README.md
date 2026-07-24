@@ -1,17 +1,14 @@
-# ☕ Insha | Developer Portfolio
+#  Insha | Developer Portfolio
 
 A modern and responsive developer portfolio built with **React** and **Vite**, featuring smooth animations, elegant UI, and a warm coffee-inspired design. This portfolio showcases my skills, projects, education, and experience as I continue my journey in web development.
 
+## Portfolio Preview
 
-
-## 📸 Portfolio Preview
-
-> [Portfolio Preview]
-(assets/preview.png)
+> [Portfolio Preview](assets/preview.png)
 
 ---
 
-## ✨ Features
+##  Features
 
 - Responsive Design
 - Smooth Page Transitions
@@ -25,7 +22,7 @@ A modern and responsive developer portfolio built with **React** and **Vite**, f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - Vite
@@ -37,18 +34,18 @@ A modern and responsive developer portfolio built with **React** and **Vite**, f
 
 ---
 
-## 📂 Portfolio Sections
+##  Portfolio Sections
 
-- 👋 About
-- 🎓 Education
-- 💼 Experience
-- 🚀 Projects
-- 💻 Skills
-- 📬 Contact
+- About
+- Education
+- Experience
+- Projects
+- Skills
+- Contact
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Connexa
 A peer-to-peer jewelry marketplace connecting independent artisans with customers.
@@ -95,30 +92,30 @@ Implementation of graph algorithms and database management concepts.
 
 ---
 
-## 🎨 Design Inspiration
+##  Design Inspiration
 
 This portfolio follows a handcrafted coffee-inspired design system featuring:
 
-- ☕ Warm Beige Backgrounds
-- 🤎 Espresso Content Cards
-- 🟤 Caramel & Rust Accent Colors
-- 🌿 Soft Sage Highlights
-- ✨ Elegant Animations
-- 📱 Responsive Layout
+-  Warm Beige Backgrounds
+-  Espresso Content Cards
+-  Caramel & Rust Accent Colors
+-  Soft Sage Highlights
+-  Elegant Animations
+-  Responsive Layout
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Insha**
 
-📩 Email: inshaits@gmail.com
+ Email: inshaits@gmail.com
 
-🐙 GitHub: https://github.com/inshaits-hub
+ GitHub: https://github.com/inshaits-hub
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Dark Mode
 - Blog Section
@@ -129,12 +126,6 @@ This portfolio follows a handcrafted coffee-inspired design system featuring:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-### ⭐ If you like this project, don't forget to give it a star!
+###  If you like this project, don't forget to give it a star!
 
 *"Building modern, elegant, and meaningful digital experiences through clean code and thoughtful design."*
