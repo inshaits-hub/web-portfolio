@@ -2,11 +2,6 @@
 
 A modern and responsive developer portfolio built with **React** and **Vite**, featuring smooth animations, elegant UI, and a warm coffee-inspired design. This portfolio showcases my skills, projects, education, and experience as I continue my journey in web development.
 
-## Portfolio Preview
-
-> [Portfolio Preview](assets/preview.png)
-
----
 
 ##  Features
 
